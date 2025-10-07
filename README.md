@@ -70,14 +70,6 @@ Completed: 2016*
 
 ---
 
-## Contact
-**Email:** [santanusahoo.in@gmail.com](mailto:santanusahoo.in@gmail.com)  
-**Portfolio:** [santanusahoo.github.io](https://santanusahoo.github.io)  
-**Mobile:** +91-9091350019  
-**GitHub:** [github.com/santanusahoo-in](https://github.com/santanusahoo-in)
-
----
-
 ⭐ *“Data is not just numbers — it’s the language of insight.”*  
 Let’s keep learning, building, and exploring the future together 🚀
 
