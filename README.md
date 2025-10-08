@@ -1,4 +1,4 @@
-![](Blue%20Tosca%20Modern%20Bold%20Data%20Analysis%20Presentation.png)
+![](Blue%20Tosca%20Modern%20Bold%20Data%20Analysis%20Presentation%20(2).png)
 # Santanu Sahoo – Data Analyst & AI Enthusiast
 
 #### Welcome to my portfolio!  
