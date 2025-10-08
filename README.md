@@ -1,4 +1,4 @@
-![](Blue%20Tosca%20Modern%20Bold%20Data%20Analysis%20Presentation.png)
+![](Blue%20Tosca%20Modern%20Bold%20Data%20Analysis%20.png)
 ---
 ## What I do best:
 - Turning raw data into interactive dashboards using Power BI & Excel
