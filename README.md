@@ -22,6 +22,7 @@ I began my journey with a diploma in Electrical Engineering, but soon realized t
 - [Sakila DVD Rental Data Analysis using SQL](https://github.com/santanusahoo-in/Sakila-DVD-Rental-Data-Analysis-using-SQL)
 ### Power BI:
 - [Bank Customer Balance Analysis Dashboard](https://github.com/santanusahoo-in/Bank-Customer-Balance-Analysis-Dashboard-Power-BI-)
+- [HR Workforce Compensation Analytics Dashboard](https://github.com/santanusahoo-in/HR-Workforce-Compensation-Analytics-Dashboard-Power-BI-)
 ### Advanced Excel:
 ### Generative AI:
 
