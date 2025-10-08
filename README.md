@@ -1,13 +1,5 @@
 ![](Blue%20Tosca%20Modern%20Bold%20Data%20Analysis%20Presentation%20(2).png)
-# Santanu Sahoo – Data Analyst & AI Enthusiast
-
-#### Welcome to my portfolio!  
-## About Me
-
-I’m Santanu Sahoo, an aspiring Data Analyst and AI enthusiast currently pursuing a B.Tech in Electrical Engineering from Swami Vivekanand University, Kolkata. My curiosity for data-driven problem-solving drives me to blend Python, SQL, Power BI, and Generative AI to uncover insights that make real-world impact.
-
-I began my journey with a diploma in Electrical Engineering, but soon realized that data—like electricity—powers everything. Since then, I’ve been channeling that spark into analytical storytelling, automation, and smart dashboards.
-
+---
 ## What I do best:
 - Turning raw data into interactive dashboards using Power BI & Excel
 - Writing efficient SQL queries for deep insights
