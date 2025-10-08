@@ -42,7 +42,7 @@ I began my journey with a diploma in Electrical Engineering, but soon realized t
 ## Education
 #### Bachelor of Technology (B.Tech) – Electrical Engineering
 *Swami Vivekanand University, Kolkata
-2022 – 2026 (7th Semester Ongoing)*
+2023 – 2026 (7th Semester Ongoing)*
 - Built a strong foundation in technical and analytical problem-solving.
 - Applied data-driven methods to engineering and research projects.
 #### Diploma in Electrical Engineering
