@@ -29,13 +29,13 @@ I began my journey with a diploma in Electrical Engineering, but soon realized t
 ---
 
 ## Certificates
-- Career Essentials in Data Analysis – *Microsoft & LinkedIn*  
-- Generative AI – *Microsoft & LinkedIn*  
-- Master SQL  
-- Programming with Python – *Professional Certificate*  
-- Power BI: Business Intelligence for Beginners to Advanced  
-- Advanced Excel with AI  
-- Human Resource Management
+- [Career Essentials in Data Analysis – *Microsoft & LinkedIn*](https://github.com/santanusahoo-in/Certificates_in/blob/main/Certificates/CertificateOfCompletion_Career%20Essentials%20in%20Data%20Analysis%20by%20Microsoft%20and%20LinkedIn.pdf)  
+- [Generative AI – *Microsoft & LinkedIn*](https://github.com/santanusahoo-in/Certificates_in/blob/5519e0821831324a5210d65e70250e7d63ff5d32/Certificates/CertificateOfCompletion_Career%20Essentials%20in%20Generative%20AI%20by%20Microsoft%20and%20LinkedIn.pdf)  
+- [Master SQL](https://github.com/santanusahoo-in/Certificates_in/blob/main/Certificates/CertificateOfCompletion_Master%20SQL%20for%20Data%20Science.pdf)  
+- [Programming with Python – *Professional Certificate*](https://github.com/santanusahoo-in/Certificates_in/blob/main/Certificates/CertificateOfCompletion_OpenEDG%20Python%20Institute%20Programming%20with%20Python%20Professional%20Certificate.pdf)  
+- [Power BI: Business Intelligence for Beginners to Advanced](https://github.com/santanusahoo-in/Certificates_in/blob/fd4c5ee819dd80c1f97a8e762bb7b296b26cbb89/Certificates/UC-f96a4c53-fe40-49cf-8458-28e4f3b6e157.pdf)  
+- [Advanced Excel with AI](https://github.com/santanusahoo-in/Certificates_in/blob/fd4c5ee819dd80c1f97a8e762bb7b296b26cbb89/Certificates/UC-68679eea-4eae-42db-9386-09900227f0a6.pdf)
+- [Human Resource Management](https://github.com/santanusahoo-in/Certificates_in/blob/main/Certificates/CAN_38319242_5163989.pdf)
 
 ---
 
