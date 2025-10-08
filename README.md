@@ -18,7 +18,7 @@ I began my journey with a diploma in Electrical Engineering, but soon realized t
 ## Projects:
 ### Python:
 - [American Bank Customer Analysis](https://github.com/santanusahoo-in/American_Bank_Data_Analysis-Python-)
-- [HR Data Analysis: Workforce & Salary Insights Dashboard](https://github.com/santanusahoo-in/HR-Data-Analysis-Workforce-Salary-Insights-Dashboard-Python-)
+- [HR Data Analysis: Workforce & Salary Insights](https://github.com/santanusahoo-in/HR-Data-Analysis-Workforce-Salary-Insights-Dashboard-Python-)
 ### SQL: 
 - [Sakila DVD Rental Data Analysis using SQL](https://github.com/santanusahoo-in/Sakila-DVD-Rental-Data-Analysis-using-SQL)
 ### Power BI:
